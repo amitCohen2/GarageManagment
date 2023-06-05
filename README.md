@@ -2,14 +2,14 @@
 <h1 align="center">Garage Managment</h1>
 <p align="center"><strong>Console Edition - by Amit Cohen & Aviv Galily</strong>
 <br>Students project for C# & .Net Framework course - The Academic College of Tel Aviv - Yaffo</p>
-
+<div align="center"><img src="static/photos/console screenshot.png"></img></div>
 <h2>About</h2>
 
 Garage management system.
 
 <h2>Project Architecture</h2>
 
-<div align="center"><img src="static/diagrams/ERD Garage Management.png"></img></div>
+<div align="center"><img src="static/diagrams/ERD Garage Managment.png"></img></div>
 
 <h2>Implements By:</h2>
 
@@ -18,6 +18,7 @@ Garage management system.
 - Collections
 - Exceptions
 - Using an outer assembly (DLL)
+- Use Sound 
 
 <h2>Team Members</h2>
 
